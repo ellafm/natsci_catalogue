@@ -7,7 +7,9 @@
 ||||
 | :-- | :-- | :-- |
 | Synthetic Organic Chemistry | Dr Krešo Bučar | [d.bucar@ucl.ac.uk](mailto:d.bucar@ucl.ac.uk) |
-| Biomedical Sciences | Dr Paola Vergani | [p.vergani@ucl.ac.uk](mailto:p.vergani@ucl.ac.uk) |`````{tab-set}
+| Biomedical Sciences | Dr Paola Vergani | [p.vergani@ucl.ac.uk](mailto:p.vergani@ucl.ac.uk) | 
+
+`````{tab-set}
 ````{tab-item} Year 1
 
 ::::{admonition} Term 1
