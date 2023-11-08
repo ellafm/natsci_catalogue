@@ -4,10 +4,10 @@
  The stream leaders for this combination are
 
 
-||||
-| :-- | :-- | :-- |
-| Synthetic Organic Chemistry | Dr Krešo Bučar | [d.bucar@ucl.ac.uk](mailto:d.bucar@ucl.ac.uk) |
-| Biomedical Sciences | Dr Paola Vergani | [p.vergani@ucl.ac.uk](mailto:p.vergani@ucl.ac.uk) | 
+|||||
+| :-- | :-- | :-- | :-- |
+| | Synthetic Organic Chemistry | Dr Krešo Bučar | [d.bucar@ucl.ac.uk](mailto:d.bucar@ucl.ac.uk) |
+| | Biomedical Sciences | Dr Paola Vergani | [p.vergani@ucl.ac.uk](mailto:p.vergani@ucl.ac.uk) | 
 
 `````{tab-set}
 ````{tab-item} Year 1
