@@ -5,8 +5,8 @@
 
 
 <table class='table2'>
-<tr><td>Synthetic Organic Chemistry</td><td>Dr Krešo Bučar</td><td><a href='malto:d.bucar@ucl.ac.uk'>d.bucar@ucl.ac.uk</td></tr>
-<tr><td>Biomedical Sciences</td><td>Dr Paola Vergani</td><td><a href='malto:p.vergani@ucl.ac.uk'>p.vergani@ucl.ac.uk</td></tr>
+<tr><td>Synthetic Organic Chemistry</td><td>Dr Krešo Bučar</td><td><a href='mailto:d.bucar@ucl.ac.uk'>d.bucar@ucl.ac.uk</td></tr>
+<tr><td>Biomedical Sciences</td><td>Dr Paola Vergani</td><td><a href='mailto:p.vergani@ucl.ac.uk'>p.vergani@ucl.ac.uk</td></tr>
 </table>
 
 `````{tab-set}
