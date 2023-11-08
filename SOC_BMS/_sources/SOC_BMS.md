@@ -1,5 +1,5 @@
 (SOC_BMS)=
-## Synthetic Organic Chemistry <font color='--note-border-color'>*and*</font> Biomedical Sciences 
+# Synthetic Organic Chemistry <font color='--note-border-color'>*and*</font> Biomedical Sciences 
 
  The stream leaders for this combination are
 
