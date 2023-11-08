@@ -1,7 +1,13 @@
 (BMS_MAS)=
-## Biomedical Sciences <font color='--note-border-color'>*and*</font> Mathematics and Statistics 
+# Biomedical Sciences <font color='--note-border-color'>*and*</font> Mathematics and Statistics 
 
- Hello world info here
+ The stream leaders for this combination are:
+
+
+<table>
+<tr><td style='width: 40%;'>Biomedical Sciences</td><td style='width: 30%;'>Dr Paola Vergani</td><td style='width: 30%;'><a href='mailto:p.vergani@ucl.ac.uk'>p.vergani@ucl.ac.uk</td></tr>
+<tr><td style='width: 40%;'>Mathematics and Statistics</td><td style='width: 30%;'>Dr Simon Lock</td><td style='width: 30%;'><a href='mailto:simon.lock@ucl.ac.uk'>simon.lock@ucl.ac.uk</td></tr>
+</table>
 
 `````{tab-set}
 ````{tab-item} Year 1

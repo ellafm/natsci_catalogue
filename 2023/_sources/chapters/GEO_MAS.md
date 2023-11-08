@@ -1,7 +1,13 @@
 (GEO_MAS)=
-## Geoscience <font color='--note-border-color'>*and*</font> Mathematics and Statistics 
+# Geoscience <font color='--note-border-color'>*and*</font> Mathematics and Statistics 
 
- Hello world info here
+ The stream leaders for this combination are:
+
+
+<table>
+<tr><td style='width: 40%;'>Geoscience</td><td style='width: 30%;'>Prof Nicolas Brantut</td><td style='width: 30%;'><a href='mailto:n.brantut@ucl.ac.uk'>n.brantut@ucl.ac.uk</td></tr>
+<tr><td style='width: 40%;'>Mathematics and Statistics</td><td style='width: 30%;'>Dr Simon Lock</td><td style='width: 30%;'><a href='mailto:simon.lock@ucl.ac.uk'>simon.lock@ucl.ac.uk</td></tr>
+</table>
 
 `````{tab-set}
 ````{tab-item} Year 1

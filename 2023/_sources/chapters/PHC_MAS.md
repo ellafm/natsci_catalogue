@@ -1,7 +1,13 @@
 (PHC_MAS)=
-## Physical Chemistry <font color='--note-border-color'>*and*</font> Mathematics and Statistics 
+# Physical Chemistry <font color='--note-border-color'>*and*</font> Mathematics and Statistics 
 
- Hello world info here
+ The stream leaders for this combination are:
+
+
+<table>
+<tr><td style='width: 40%;'>Physical Chemistry</td><td style='width: 30%;'>Dr Krešo Bučar</td><td style='width: 30%;'><a href='mailto:d.bucar@ucl.ac.uk'>d.bucar@ucl.ac.uk</td></tr>
+<tr><td style='width: 40%;'>Mathematics and Statistics</td><td style='width: 30%;'>Dr Simon Lock</td><td style='width: 30%;'><a href='mailto:simon.lock@ucl.ac.uk'>simon.lock@ucl.ac.uk</td></tr>
+</table>
 
 `````{tab-set}
 ````{tab-item} Year 1

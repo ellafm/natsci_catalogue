@@ -1,7 +1,13 @@
 (SOC_STS)=
-## Synthetic Organic Chemistry <font color='--note-border-color'>*and*</font> History, Philosophy and Social Studies of Science 
+# Synthetic Organic Chemistry <font color='--note-border-color'>*and*</font> History, Philosophy and Social Studies of Science 
 
- Hello world info here
+ The stream leaders for this combination are:
+
+
+<table>
+<tr><td style='width: 40%;'>Synthetic Organic Chemistry</td><td style='width: 30%;'>Dr Krešo Bučar</td><td style='width: 30%;'><a href='mailto:d.bucar@ucl.ac.uk'>d.bucar@ucl.ac.uk</td></tr>
+<tr><td style='width: 40%;'>History, Philosophy and Social Studies of Science</td><td style='width: 30%;'>Dr Cecilia Busuioc</td><td style='width: 30%;'><a href='mailto:cecilia.busuioc@ucl.ac.uk'>cecilia.busuioc@ucl.ac.uk</td></tr>
+</table>
 
 `````{tab-set}
 ````{tab-item} Year 1

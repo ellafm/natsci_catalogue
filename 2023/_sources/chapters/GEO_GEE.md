@@ -1,7 +1,13 @@
 (GEO_GEE)=
-## Geoscience <font color='--note-border-color'>*and*</font> Genetics and Environment 
+# Geoscience <font color='--note-border-color'>*and*</font> Genetics and Environment 
 
- Hello world info here
+ The stream leaders for this combination are:
+
+
+<table>
+<tr><td style='width: 40%;'>Geoscience</td><td style='width: 30%;'>Prof Nicolas Brantut</td><td style='width: 30%;'><a href='mailto:n.brantut@ucl.ac.uk'>n.brantut@ucl.ac.uk</td></tr>
+<tr><td style='width: 40%;'>Genetics and Environment</td><td style='width: 30%;'>Dr Hazel Smith</td><td style='width: 30%;'><a href='mailto:hazel.smith@ucl.ac.uk'>hazel.smith@ucl.ac.uk</td></tr>
+</table>
 
 `````{tab-set}
 ````{tab-item} Year 1

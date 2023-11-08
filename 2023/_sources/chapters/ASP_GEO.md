@@ -1,7 +1,13 @@
 (ASP_GEO)=
-## Astrophysics <font color='--note-border-color'>*and*</font> Geoscience 
+# Astrophysics <font color='--note-border-color'>*and*</font> Geoscience 
 
- Hello world info here
+ The stream leaders for this combination are:
+
+
+<table>
+<tr><td style='width: 40%;'>Astrophysics</td><td style='width: 30%;'>Dr Ingo Waldmann</td><td style='width: 30%;'><a href='mailto:ingo.waldmann@ucl.ac.uk'>ingo.waldmann@ucl.ac.uk</td></tr>
+<tr><td style='width: 40%;'>Geoscience</td><td style='width: 30%;'>Prof Nicolas Brantut</td><td style='width: 30%;'><a href='mailto:n.brantut@ucl.ac.uk'>n.brantut@ucl.ac.uk</td></tr>
+</table>
 
 `````{tab-set}
 ````{tab-item} Year 1

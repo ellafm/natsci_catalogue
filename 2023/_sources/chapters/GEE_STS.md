@@ -1,7 +1,13 @@
 (GEE_STS)=
-## Genetics and Environment <font color='--note-border-color'>*and*</font> History, Philosophy and Social Studies of Science 
+# Genetics and Environment <font color='--note-border-color'>*and*</font> History, Philosophy and Social Studies of Science 
 
- Hello world info here
+ The stream leaders for this combination are:
+
+
+<table>
+<tr><td style='width: 40%;'>Genetics and Environment</td><td style='width: 30%;'>Dr Hazel Smith</td><td style='width: 30%;'><a href='mailto:hazel.smith@ucl.ac.uk'>hazel.smith@ucl.ac.uk</td></tr>
+<tr><td style='width: 40%;'>History, Philosophy and Social Studies of Science</td><td style='width: 30%;'>Dr Cecilia Busuioc</td><td style='width: 30%;'><a href='mailto:cecilia.busuioc@ucl.ac.uk'>cecilia.busuioc@ucl.ac.uk</td></tr>
+</table>
 
 `````{tab-set}
 ````{tab-item} Year 1

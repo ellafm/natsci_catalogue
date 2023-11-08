@@ -1,7 +1,13 @@
 (BMS_MPH)=
-## Biomedical Sciences <font color='--note-border-color'>*and*</font> Medical Physics 
+# Biomedical Sciences <font color='--note-border-color'>*and*</font> Medical Physics 
 
- Hello world info here
+ The stream leaders for this combination are:
+
+
+<table>
+<tr><td style='width: 40%;'>Biomedical Sciences</td><td style='width: 30%;'>Dr Paola Vergani</td><td style='width: 30%;'><a href='mailto:p.vergani@ucl.ac.uk'>p.vergani@ucl.ac.uk</td></tr>
+<tr><td style='width: 40%;'>Medical Physics</td><td style='width: 30%;'>Dr Ingo Waldmann</td><td style='width: 30%;'><a href='mailto:ingo.waldmann@ucl.ac.uk'>ingo.waldmann@ucl.ac.uk</td></tr>
+</table>
 
 `````{tab-set}
 ````{tab-item} Year 1
@@ -249,7 +255,7 @@ Choose 15-30 credits
 | [MPHY0030](https://www.ucl.ac.uk/module-catalogue/modules/MPHY0030) | Programming Foundations for Medical Image Analysis | 15 credits | [T1](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=MPHY0030&acadYearFl=N) |  |
 | [MPHY0039](https://www.ucl.ac.uk/module-catalogue/modules/MPHY0039) | Applications of Biomedical Engineering | 15 credits | [T2](https://timetable.ucl.ac.uk/tt/moduleTimet.do?firstReq=Y&moduleId=MPHY0039&acadYearFl=N) |  |
 
-Y4 students to avoid taking both MPHY0020 and MPHY0030 together – both term 1, MPHY0020 is introductory (50% MATLAB and appropriate for those with little/no prior experience of computing, includes digital signal and image processing, topics on general application of computing to medicine), MPHY0030 – more advanced for those with prior programming experience
+Y4 students to avoid taking both MPHY0020 and MPHY0030 together â€“ both term 1, MPHY0020 is introductory (50% MATLAB and appropriate for those with little/no prior experience of computing, includes digital signal and image processing, topics on general application of computing to medicine), MPHY0030 â€“ more advanced for those with prior programming experience
 :::
 ::::
 

@@ -1,7 +1,13 @@
 (PHY_IMC)=
-## Physics <font color='--note-border-color'>*and*</font> Inorganic and Materials Chemistry 
+# Physics <font color='--note-border-color'>*and*</font> Inorganic and Materials Chemistry 
 
- Hello world info here
+ The stream leaders for this combination are:
+
+
+<table>
+<tr><td style='width: 40%;'>Physics</td><td style='width: 30%;'>Dr Ingo Waldmann</td><td style='width: 30%;'><a href='mailto:ingo.waldmann@ucl.ac.uk'>ingo.waldmann@ucl.ac.uk</td></tr>
+<tr><td style='width: 40%;'>Inorganic and Materials Chemistry</td><td style='width: 30%;'>Dr Krešo Bučar</td><td style='width: 30%;'><a href='mailto:d.bucar@ucl.ac.uk'>d.bucar@ucl.ac.uk</td></tr>
+</table>
 
 `````{tab-set}
 ````{tab-item} Year 1

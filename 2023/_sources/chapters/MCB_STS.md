@@ -1,7 +1,13 @@
 (MCB_STS)=
-## Molecular and Cell Biology <font color='--note-border-color'>*and*</font> History, Philosophy and Social Studies of Science 
+# Molecular and Cell Biology <font color='--note-border-color'>*and*</font> History, Philosophy and Social Studies of Science 
 
- Hello world info here
+ The stream leaders for this combination are:
+
+
+<table>
+<tr><td style='width: 40%;'>Molecular and Cell Biology</td><td style='width: 30%;'>Dr Philip Lewis</td><td style='width: 30%;'><a href='mailto:philip.lewis@ucl.ac.uk'>philip.lewis@ucl.ac.uk</td></tr>
+<tr><td style='width: 40%;'>History, Philosophy and Social Studies of Science</td><td style='width: 30%;'>Dr Cecilia Busuioc</td><td style='width: 30%;'><a href='mailto:cecilia.busuioc@ucl.ac.uk'>cecilia.busuioc@ucl.ac.uk</td></tr>
+</table>
 
 `````{tab-set}
 ````{tab-item} Year 1

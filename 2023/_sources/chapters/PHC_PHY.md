@@ -1,7 +1,13 @@
 (PHC_PHY)=
-## Physical Chemistry <font color='--note-border-color'>*and*</font> Physics 
+# Physical Chemistry <font color='--note-border-color'>*and*</font> Physics 
 
- Hello world info here
+ The stream leaders for this combination are:
+
+
+<table>
+<tr><td style='width: 40%;'>Physical Chemistry</td><td style='width: 30%;'>Dr Krešo Bučar</td><td style='width: 30%;'><a href='mailto:d.bucar@ucl.ac.uk'>d.bucar@ucl.ac.uk</td></tr>
+<tr><td style='width: 40%;'>Physics</td><td style='width: 30%;'>Dr Ingo Waldmann</td><td style='width: 30%;'><a href='mailto:ingo.waldmann@ucl.ac.uk'>ingo.waldmann@ucl.ac.uk</td></tr>
+</table>
 
 `````{tab-set}
 ````{tab-item} Year 1

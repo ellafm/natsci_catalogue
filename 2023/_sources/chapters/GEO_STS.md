@@ -1,7 +1,13 @@
 (GEO_STS)=
-## Geoscience <font color='--note-border-color'>*and*</font> History, Philosophy and Social Studies of Science 
+# Geoscience <font color='--note-border-color'>*and*</font> History, Philosophy and Social Studies of Science 
 
- Hello world info here
+ The stream leaders for this combination are:
+
+
+<table>
+<tr><td style='width: 40%;'>Geoscience</td><td style='width: 30%;'>Prof Nicolas Brantut</td><td style='width: 30%;'><a href='mailto:n.brantut@ucl.ac.uk'>n.brantut@ucl.ac.uk</td></tr>
+<tr><td style='width: 40%;'>History, Philosophy and Social Studies of Science</td><td style='width: 30%;'>Dr Cecilia Busuioc</td><td style='width: 30%;'><a href='mailto:cecilia.busuioc@ucl.ac.uk'>cecilia.busuioc@ucl.ac.uk</td></tr>
+</table>
 
 `````{tab-set}
 ````{tab-item} Year 1

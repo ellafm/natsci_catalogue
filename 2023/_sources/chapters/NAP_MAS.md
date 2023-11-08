@@ -1,7 +1,13 @@
 (NAP_MAS)=
-## Neuroscience and Psychology <font color='--note-border-color'>*and*</font> Mathematics and Statistics 
+# Neuroscience and Psychology <font color='--note-border-color'>*and*</font> Mathematics and Statistics 
 
- Hello world info here
+ The stream leaders for this combination are:
+
+
+<table>
+<tr><td style='width: 40%;'>Neuroscience and Psychology</td><td style='width: 30%;'>Dr Velia Cardin</td><td style='width: 30%;'><a href='mailto:velia.cardin@ucl.ac.uk'>velia.cardin@ucl.ac.uk</td></tr>
+<tr><td style='width: 40%;'>Mathematics and Statistics</td><td style='width: 30%;'>Dr Simon Lock</td><td style='width: 30%;'><a href='mailto:simon.lock@ucl.ac.uk'>simon.lock@ucl.ac.uk</td></tr>
+</table>
 
 `````{tab-set}
 ````{tab-item} Year 1

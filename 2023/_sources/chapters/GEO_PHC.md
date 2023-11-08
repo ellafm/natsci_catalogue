@@ -1,7 +1,13 @@
 (GEO_PHC)=
-## Geoscience <font color='--note-border-color'>*and*</font> Physical Chemistry 
+# Geoscience <font color='--note-border-color'>*and*</font> Physical Chemistry 
 
- Hello world info here
+ The stream leaders for this combination are:
+
+
+<table>
+<tr><td style='width: 40%;'>Geoscience</td><td style='width: 30%;'>Prof Nicolas Brantut</td><td style='width: 30%;'><a href='mailto:n.brantut@ucl.ac.uk'>n.brantut@ucl.ac.uk</td></tr>
+<tr><td style='width: 40%;'>Physical Chemistry</td><td style='width: 30%;'>Dr Krešo Bučar</td><td style='width: 30%;'><a href='mailto:d.bucar@ucl.ac.uk'>d.bucar@ucl.ac.uk</td></tr>
+</table>
 
 `````{tab-set}
 ````{tab-item} Year 1

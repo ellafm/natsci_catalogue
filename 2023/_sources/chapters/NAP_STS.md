@@ -1,7 +1,13 @@
 (NAP_STS)=
-## Neuroscience and Psychology <font color='--note-border-color'>*and*</font> History, Philosophy and Social Studies of Science 
+# Neuroscience and Psychology <font color='--note-border-color'>*and*</font> History, Philosophy and Social Studies of Science 
 
- Hello world info here
+ The stream leaders for this combination are:
+
+
+<table>
+<tr><td style='width: 40%;'>Neuroscience and Psychology</td><td style='width: 30%;'>Dr Velia Cardin</td><td style='width: 30%;'><a href='mailto:velia.cardin@ucl.ac.uk'>velia.cardin@ucl.ac.uk</td></tr>
+<tr><td style='width: 40%;'>History, Philosophy and Social Studies of Science</td><td style='width: 30%;'>Dr Cecilia Busuioc</td><td style='width: 30%;'><a href='mailto:cecilia.busuioc@ucl.ac.uk'>cecilia.busuioc@ucl.ac.uk</td></tr>
+</table>
 
 `````{tab-set}
 ````{tab-item} Year 1

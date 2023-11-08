@@ -1,7 +1,13 @@
 (GEE_SOC)=
-## Genetics and Environment <font color='--note-border-color'>*and*</font> Synthetic Organic Chemistry 
+# Genetics and Environment <font color='--note-border-color'>*and*</font> Synthetic Organic Chemistry 
 
- Hello world info here
+ The stream leaders for this combination are:
+
+
+<table>
+<tr><td style='width: 40%;'>Genetics and Environment</td><td style='width: 30%;'>Dr Hazel Smith</td><td style='width: 30%;'><a href='mailto:hazel.smith@ucl.ac.uk'>hazel.smith@ucl.ac.uk</td></tr>
+<tr><td style='width: 40%;'>Synthetic Organic Chemistry</td><td style='width: 30%;'>Dr Krešo Bučar</td><td style='width: 30%;'><a href='mailto:d.bucar@ucl.ac.uk'>d.bucar@ucl.ac.uk</td></tr>
+</table>
 
 `````{tab-set}
 ````{tab-item} Year 1

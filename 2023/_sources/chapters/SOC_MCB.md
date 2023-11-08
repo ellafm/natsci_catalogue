@@ -1,7 +1,13 @@
 (SOC_MCB)=
-## Synthetic Organic Chemistry <font color='--note-border-color'>*and*</font> Molecular and Cell Biology 
+# Synthetic Organic Chemistry <font color='--note-border-color'>*and*</font> Molecular and Cell Biology 
 
- Hello world info here
+ The stream leaders for this combination are:
+
+
+<table>
+<tr><td style='width: 40%;'>Synthetic Organic Chemistry</td><td style='width: 30%;'>Dr Krešo Bučar</td><td style='width: 30%;'><a href='mailto:d.bucar@ucl.ac.uk'>d.bucar@ucl.ac.uk</td></tr>
+<tr><td style='width: 40%;'>Molecular and Cell Biology</td><td style='width: 30%;'>Dr Philip Lewis</td><td style='width: 30%;'><a href='mailto:philip.lewis@ucl.ac.uk'>philip.lewis@ucl.ac.uk</td></tr>
+</table>
 
 `````{tab-set}
 ````{tab-item} Year 1

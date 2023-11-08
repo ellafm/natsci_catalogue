@@ -1,7 +1,13 @@
 (GEE_MAS)=
-## Genetics and Environment <font color='--note-border-color'>*and*</font> Mathematics and Statistics 
+# Genetics and Environment <font color='--note-border-color'>*and*</font> Mathematics and Statistics 
 
- Hello world info here
+ The stream leaders for this combination are:
+
+
+<table>
+<tr><td style='width: 40%;'>Genetics and Environment</td><td style='width: 30%;'>Dr Hazel Smith</td><td style='width: 30%;'><a href='mailto:hazel.smith@ucl.ac.uk'>hazel.smith@ucl.ac.uk</td></tr>
+<tr><td style='width: 40%;'>Mathematics and Statistics</td><td style='width: 30%;'>Dr Simon Lock</td><td style='width: 30%;'><a href='mailto:simon.lock@ucl.ac.uk'>simon.lock@ucl.ac.uk</td></tr>
+</table>
 
 `````{tab-set}
 ````{tab-item} Year 1
