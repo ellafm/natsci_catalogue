@@ -5,10 +5,8 @@
 
 
  <table class='table2'>
-||||
-| :-- | :-- | :-- |
-| Synthetic Organic Chemistry | Dr Krešo Bučar | [d.bucar@ucl.ac.uk](mailto:d.bucar@ucl.ac.uk) |
-| Biomedical Sciences | Dr Paola Vergani | [p.vergani@ucl.ac.uk](mailto:p.vergani@ucl.ac.uk) |
+<tr><td>Synthetic Organic Chemistry</td><td>Dr Krešo Bučar</td><td>[d.bucar@ucl.ac.uk](mailto:d.bucar@ucl.ac.uk)</td></tr>
+<tr><td>Biomedical Sciences</td><td>Dr Paola Vergani</td><td>[p.vergani@ucl.ac.uk](mailto:p.vergani@ucl.ac.uk)</td></tr>
 </table>
 
 `````{tab-set}
