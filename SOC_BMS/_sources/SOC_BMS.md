@@ -1,7 +1,10 @@
 (SOC_BMS)=
 ## Synthetic Organic Chemistry <font color='--note-border-color'>*and*</font> Biomedical Sciences 
 
- Hello world info here
+ The stream leaders for this combination are:
+Synthetic Organic Chemistry:			b'Dr Kre\xc5\xa1o Bu\xc4\x8dar',		[d.bucar@ucl.ac.uk](mailto:d.bucar@ucl.ac.uk)
+Biomedical Sciences:			b'Dr Paola Vergani',		[p.vergani@ucl.ac.uk](mailto:p.vergani@ucl.ac.uk)
+
 
 `````{tab-set}
 ````{tab-item} Year 1
