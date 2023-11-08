@@ -4,10 +4,12 @@
  The stream leaders for this combination are
 
 
- <table class='table2'>||||
+ <table class='table2'>
+||||
 | :-- | :-- | :-- |
 | Synthetic Organic Chemistry | Dr Krešo Bučar | [d.bucar@ucl.ac.uk](mailto:d.bucar@ucl.ac.uk) |
-| Biomedical Sciences | Dr Paola Vergani | [p.vergani@ucl.ac.uk](mailto:p.vergani@ucl.ac.uk) |</table>
+| Biomedical Sciences | Dr Paola Vergani | [p.vergani@ucl.ac.uk](mailto:p.vergani@ucl.ac.uk) |
+</table>
 
 `````{tab-set}
 ````{tab-item} Year 1
